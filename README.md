@@ -9,7 +9,7 @@ It works in two modes[set shuffle to false or true]
 
 It take the following paramters:-
 
-1.String folderPath - path of the folder where your images are
-2.String destFileName - the output file name without .pdf extension
-3.boolean shufflingImages - Mode
-4.String imageExtension - extension of your images eg:- ".jpeg"
+1. String folderPath - path of the folder where your images are
+2. String destFileName - the output file name without .pdf extension
+3. boolean shufflingImages - Mode
+4. String imageExtension - extension of your images eg:- ".jpeg"
