@@ -8,6 +8,7 @@ It works in two modes[set shuffle to false or true]
 2. If false - it will create the pdf file from the source folder by order, you need to name your files as 1.jpeg,2.jpeg and so on.
 
 It take the following paramters:-
+
 1.String folderPath - path of the folder where your images are
 2.String destFileName - the output file name without .pdf extension
 3.boolean shufflingImages - Mode
