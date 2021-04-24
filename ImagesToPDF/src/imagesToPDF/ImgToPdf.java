@@ -62,6 +62,6 @@ class PdfImages{
 }
 public class ImgToPdf {
 	public static void main(String args[]) throws IOException {
-		new PdfImages().convertImgToPDF("E:\\Oracle\\Java SE 11 Programming Complete Ed 2 (Student Guide)","oraclePdf",false,".jpeg");
+		new PdfImages().convertImgToPDF("E:\\My Projects\\Java Project\\Images","mypdf",true,".jpeg");
 	}
 }
